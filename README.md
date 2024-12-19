@@ -8,6 +8,19 @@ A Python tool that automatically detects and splits videos into separate scenes 
 - Generates detailed scene analysis report
 - Supports MP4 video format
 
+## ❤️ Support & Get 400+ AI Projects
+
+This is one of 400+ fascinating projects in my collection! **[Support me on Patreon](https://www.patreon.com/c/echohive42/membership)** to get:
+
+- 🎯 Access to 400+ AI projects (and growing weekly!)
+- 📥 Full source code & detailed explanations
+- 📚 1000x Cursor Course
+- 🎓 Live coding sessions & AMAs
+- 💬 1-on-1 consultations (higher tiers)
+- 🎁 Exclusive discounts on AI tools
+
+## 🔧 Prerequisites
+
 ## Requirements
 - Python 3.6+
 - OpenAI API key
